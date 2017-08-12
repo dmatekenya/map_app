@@ -1,0 +1,7 @@
+pandas
+requests
+pytz
+numpy
+geojson
+flask
+flask_debugtoolbar
